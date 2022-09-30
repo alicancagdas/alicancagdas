@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicancagdas&label=Profile%20views&color=0e75b6&style=flat" alt="alicancagdas" /> </p>
 
 - 🌱 I’m currently learning **kotlin**
+- 🔭 I'm improving my **c, java, python, linux** skills
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
