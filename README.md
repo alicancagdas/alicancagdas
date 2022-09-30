@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **kotlin**
 - 🔭 I'm improving my **c, java, python, linux** skills
+- 👨‍🎓 Computer Engineering in **Kocaeli University** (3)
 
 
 <h3 align="left">Connect with me:</h3>
