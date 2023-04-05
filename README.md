@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicancagdas&label=Profile%20views&color=0e75b6&style=flat" alt="alicancagdas" /> </p>
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **flutter**
 - 🔭 I'm improving my **c, java, python, linux** skills
 - 👨‍🎓 Computer Engineering in **Kocaeli University** (3)
 
