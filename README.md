@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **docker**
 - 🔭 I'm improving my **c, java, python, linux** skills
 - 👨‍🎓 Computer Engineering in **Kocaeli University** (4)
-- 👨‍🎓 interested in ml, devops, fin-ops
+- 🔭 interested in ml, devops, fin-ops
 
 
 <h3 align="left">Connect with me:</h3>
