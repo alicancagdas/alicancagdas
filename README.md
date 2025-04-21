@@ -8,11 +8,15 @@
 - 👨‍🎓 Computer Engineer
 - 🔭 interested in ml, devops, fin-ops
 
+<h3 align="left">alicancagdas.com:</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alican-ç-900005232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alican-ç-900005232/" height="30" width="40" /></a>
 </p>
+
+
+
 
 
 
